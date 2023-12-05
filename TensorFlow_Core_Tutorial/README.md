@@ -22,11 +22,10 @@ The tutorial provides a solution for windowing, realizations of different models
 
 The dataset has gaps and null values. It must be cleared, normalized, and feature-tuned. Data outliers were analyzed and eliminated, and the dataset was coarsened. For Time and Wind features, feature engineering was applied, calculating sine and cosine components.
 
-[Artifacts](https://gitlab.com/daws-backtesting/forecasting/-/blob/master/TestProjects/structured%20data%20time%20series%20forecasting/time_series_tutorial.ipynb):
-- [time_series_tutorial.ipynb](https://gitlab.com/daws-backtesting/forecasting/-/blob/master/TestProjects/structured%20data%20time%20series%20forecasting/time_series_tutorial.ipynb)
-- [time_series_second_reproducing.ipynb](https://gitlab.com/daws-backtesting/forecasting/-/blob/master/TestProjects/structured%20data%20time%20series%20forecasting/time_series_second_reproducing.ipynb)
+Artifacts:
+- [time_series_tutorial.ipynb](./time_series_tutorial.ipynb)
+- [time_series_second_reproducing.ipynb](./time_series_second_reproducing.ipynb)
 
-[Other reproduced cases](https://www.notion.so/Business-Cases-of-deep-learning-forecasting-modeling-ccfe7a065b464c8f9393dfc3d35e6638?pvs=21)
 
 ![Image 1](images/Untitled.png)
 ![Image 2](images/Untitled%201.png)
