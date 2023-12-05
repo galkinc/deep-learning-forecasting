@@ -23,8 +23,8 @@ The tutorial provides a solution for windowing, realizations of different models
 The dataset has gaps and null values. It must be cleared, normalized, and feature-tuned. Data outliers were analyzed and eliminated, and the dataset was coarsened. For Time and Wind features, feature engineering was applied, calculating sine and cosine components.
 
 Artifacts:
-- [time_series_tutorial.ipynb](./time_series_tutorial.ipynb)
-- [time_series_second_reproducing.ipynb](./time_series_second_reproducing.ipynb)
+- [time_series_tutorial.ipynb](Time_series_forecasting_Tensorflow_original.ipynb)
+- [time_series_second_reproducing.ipynb](Time_series_forecasting_Tensorflow_reproducing.ipynb)
 
 
 ![Image 1](images/Untitled.png)
