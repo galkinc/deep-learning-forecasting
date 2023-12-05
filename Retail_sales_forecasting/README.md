@@ -1,7 +1,8 @@
 # Retail sales forecasting: Light Gradient Boosting Machine
 
 The result is presented as a review of the original Jupiter notebook. [IPYNB file: jajokine_Business-Cases_main_sales_forecasting.ipynb](https://gitlab.com/daws-backtesting/forecasting/-/blob/4c9ccb9e4f0febe36a3eaa3eaa4839abc3577af3/TestProjects/Retail%20sales%20forecasting%20Light%20Gradient%20Boosting%20Machine/jajokine_Business-Cases_main_sales_forecasting.ipynb)
-Reproducing did not possible:
+
+not reproduced:
 
 ![Untitled](images/Untitled.png)
 
